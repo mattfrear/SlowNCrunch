@@ -1,4 +1,4 @@
-﻿using Ploeh.AutoFixture.Xunit2;
+﻿using AutoFixture.Xunit2;
 using System;
 using System.Threading;
 
