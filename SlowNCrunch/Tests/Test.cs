@@ -6,7 +6,6 @@ namespace SlowNCrunch
 {
     public class Test
     {
-        // [Scenario]
         [Fact]
         [MyAutoData]
         public void Test1()
